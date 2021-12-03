@@ -1,5 +1,5 @@
 # SwiftUI_UITest
-An good example  for UITest In swiftUI
+A good example  for UITest In swiftUI
 
 contains:
 1. UI test for swiftUI 
